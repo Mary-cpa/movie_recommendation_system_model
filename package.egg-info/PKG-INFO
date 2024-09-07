@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: package
+Version: 0.1
+Summary: A movie recommendation system using the SVD 
+Home-page:  https://github.com/Mary-cpa/movie_recomendation_system_model
+Author: Mary Kiamni
+Author-email: kimanimesh@gmail.com
+License: MIT
